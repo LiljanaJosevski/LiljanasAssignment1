@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html> Assignment 1
+<body>
+
+<h1>Personal Information</h1>
+<p>Hi, my name is Liljana Josevski I am 33 years old, and I have been married to Jason for 12 years, we have three beautiful daughters, Milla, 9 years old, Eva, 7 years old and Eden, 4 years old. We also have a white English Staffy named JoJo and an auburn domestic cat named Simba. They are an unlikely pair but are best of friends. My student Number is s3909588 and student email is s3909588@student.rmit.edu.au.</p>
+
+</body>
+</html>
